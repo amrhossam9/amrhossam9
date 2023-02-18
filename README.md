@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 Currently, I am seeking an internship in software engineering
+ 🌱 Currently, I am looking for an internship as a software engineer
 
